@@ -1,4 +1,4 @@
-package calculator;
+package com.suslov.bdd.calculator;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;

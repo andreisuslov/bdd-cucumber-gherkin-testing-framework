@@ -1,4 +1,4 @@
-package calculator;
+package com.suslov.bdd.calculator;
 
 public class Calculator {
     public Integer add(Integer a, Integer b) {
