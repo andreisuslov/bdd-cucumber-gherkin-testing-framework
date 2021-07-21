@@ -1,4 +1,4 @@
-package loyalty_cards;
+package com.suslov.bdd.loyalty_cards;
 
 import java.util.HashMap;
 import java.util.Map;

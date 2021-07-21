@@ -1,4 +1,4 @@
-package loyalty_cards;
+package com.suslov.bdd.loyalty_cards;
 
 public class MorningFreshnessMember {
     private String name;
